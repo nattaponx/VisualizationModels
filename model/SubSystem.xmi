@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discoD:SubSystem
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:discoD="http://jsonDiscoverer/discovered/SubSystem"
+    xsi:schemaLocation="http://jsonDiscoverer/discovered/SubSystem metamodel.ecore" elementName="Visibility Control SPA">
+  <hasLC elementName="LC 1">
+    <hasPort elementName="PORT 1" IODirection="REQUIRE" dataElement="DATA-ELEM 1"/>
+  </hasLC>
+  <hasLC elementName="LC 2"/>
+  <hasLC elementName="LC 3">
+    <hasPort elementName="PORT 2" IODirection="REQUIRE" dataElement="DATA-ELEM 2"/>
+    <hasPort elementName="PORT 3" IODirection="REQUIRE" dataElement="DATA-ELEM 3"/>
+    <hasPort elementName="PORT 4" IODirection="REQUIRE" dataElement="DATA-ELEM 4"/>
+    <hasPort elementName="PORT 5" IODirection="REQUIRE" dataElement="DATA-ELEM 5"/>
+    <hasPort elementName="PORT 6" IODirection="PROVIDE" dataElement="DATA-ELEM 6"/>
+    <hasPort elementName="PORT 7" IODirection="REQUIRE" dataElement="DATA-ELEM 7"/>
+    <hasPort elementName="PORT 8" IODirection="PROVIDE" dataElement="DATA-ELEM 8"/>
+    <hasPort elementName="PORT 9" IODirection="REQUIRE" dataElement="DATA-ELEM 9"/>
+    <hasPort elementName="PORT 10" IODirection="REQUIRE" dataElement="DATA-ELEM 10"/>
+    <hasPort elementName="PORT 11" IODirection="PROVIDE" dataElement="DATA-ELEM 11"/>
+    <hasPort elementName="PORT 12" IODirection="REQUIRE" dataElement="DATA-ELEM 12"/>
+    <hasPort elementName="PORT 13" IODirection="REQUIRE" dataElement="DATA-ELEM 13"/>
+    <hasPort elementName="PORT 14" IODirection="REQUIRE" dataElement="DATA-ELEM 14"/>
+    <hasPort elementName="PORT 15" IODirection="REQUIRE" dataElement="DATA-ELEM 15"/>
+    <hasPort elementName="PORT 16" IODirection="PROVIDE" dataElement="DATA-ELEM 16"/>
+    <hasPort elementName="PORT 17" IODirection="REQUIRE" dataElement="DATA-ELEM 17"/>
+    <hasPort elementName="PORT 18" IODirection="PROVIDE" dataElement="DATA-ELEM 18"/>
+    <hasPort elementName="PORT 19" IODirection="REQUIRE" dataElement="DATA-ELEM 19"/>
+    <hasPort elementName="PORT 20" IODirection="REQUIRE" dataElement="DATA-ELEM 20"/>
+    <hasPort elementName="PORT 21" IODirection="PROVIDE" dataElement="DATA-ELEM 21"/>
+    <hasPort elementName="PORT 22" IODirection="REQUIRE" dataElement="DATA-ELEM 22"/>
+    <hasPort elementName="PORT 23" IODirection="REQUIRE" dataElement="DATA-ELEM 23"/>
+    <hasPort elementName="PORT 24" IODirection="REQUIRE" dataElement="DATA-ELEM 24"/>
+    <hasPort elementName="PORT 25" IODirection="REQUIRE" dataElement="DATA-ELEM 25"/>
+    <hasPort elementName="PORT 26" IODirection="PROVIDE" dataElement="DATA-ELEM 26"/>
+    <hasPort elementName="PORT 27" IODirection="REQUIRE" dataElement="DATA-ELEM 27"/>
+    <hasPort elementName="PORT 28" IODirection="PROVIDE" dataElement="DATA-ELEM 28"/>
+    <hasPort elementName="PORT 29" IODirection="PROVIDE" dataElement="DATA-ELEM 29"/>
+    <hasPort elementName="PORT 30" IODirection="PROVIDE" dataElement="DATA-ELEM 30"/>
+    <hasPort elementName="PORT 31" IODirection="PROVIDE" dataElement="DATA-ELEM 31"/>
+    <hasPort elementName="PORT 32" IODirection="REQUIRE" dataElement="DATA-ELEM 32"/>
+    <hasPort elementName="PORT 33" IODirection="PROVIDE" dataElement="DATA-ELEM 33"/>
+    <hasPort elementName="PORT 34" IODirection="REQUIRE" dataElement="DATA-ELEM 34"/>
+    <hasPort elementName="PORT 35" IODirection="PROVIDE" dataElement="DATA-ELEM 35"/>
+    <hasPort elementName="PORT 36" IODirection="PROVIDE" dataElement="DATA-ELEM 36"/>
+    <hasPort elementName="PORT 37" IODirection="REQUIRE" dataElement="DATA-ELEM 37"/>
+    <hasPort elementName="PORT 38" IODirection="PROVIDE" dataElement="DATA-ELEM 38"/>
+    <hasPort elementName="PORT 39" IODirection="PROVIDE" dataElement="DATA-ELEM 39"/>
+    <hasPort elementName="PORT 40" IODirection="REQUIRE" dataElement="DATA-ELEM 40"/>
+    <hasPort elementName="PORT 41" IODirection="PROVIDE" dataElement="DATA-ELEM 41"/>
+    <hasPort elementName="PORT 42" IODirection="REQUIRE" dataElement="DATA-ELEM 42"/>
+    <hasPort elementName="PORT 43" IODirection="PROVIDE" dataElement="DATA-ELEM 43"/>
+    <hasPort elementName="PORT 44" IODirection="PROVIDE" dataElement="DATA-ELEM 44"/>
+    <hasPort elementName="PORT 45" IODirection="REQUIRE" dataElement="DATA-ELEM 45"/>
+    <hasPort elementName="PORT 46" IODirection="PROVIDE" dataElement="DATA-ELEM 46"/>
+    <hasPort elementName="PORT 47" IODirection="REQUIRE" dataElement="DATA-ELEM 47"/>
+    <hasPort elementName="PORT 48" IODirection="REQUIRE" dataElement="DATA-ELEM 48"/>
+    <hasPort elementName="PORT 49" IODirection="REQUIRE" dataElement="DATA-ELEM 49"/>
+    <hasPort elementName="PORT 50" IODirection="REQUIRE" dataElement="DATA-ELEM 50"/>
+    <hasPort elementName="PORT 51" IODirection="PROVIDE" dataElement="DATA-ELEM 51"/>
+    <hasPort elementName="PORT 52" IODirection="REQUIRE" dataElement="DATA-ELEM 52"/>
+    <hasPort elementName="PORT 53" IODirection="REQUIRE" dataElement="DATA-ELEM 53"/>
+    <hasPort elementName="PORT 54" IODirection="PROVIDE" dataElement="DATA-ELEM 54"/>
+    <hasPort elementName="PORT 55" IODirection="REQUIRE" dataElement="DATA-ELEM 55"/>
+    <hasPort elementName="PORT 56" IODirection="REQUIRE" dataElement="DATA-ELEM 56"/>
+    <hasPort elementName="PORT 57" IODirection="REQUIRE" dataElement="DATA-ELEM 57"/>
+    <hasPort elementName="PORT 58" IODirection="PROVIDE" dataElement="DATA-ELEM 58"/>
+    <hasPort elementName="PORT 59" IODirection="REQUIRE" dataElement="DATA-ELEM 59"/>
+    <hasPort elementName="PORT 60" IODirection="REQUIRE" dataElement="DATA-ELEM 60"/>
+    <hasPort elementName="PORT 61" IODirection="REQUIRE" dataElement="DATA-ELEM 61"/>
+    <hasPort elementName="PORT 62" IODirection="PROVIDE" dataElement="DATA-ELEM 62"/>
+    <hasPort elementName="PORT 63" IODirection="REQUIRE" dataElement="DATA-ELEM 63"/>
+    <hasPort elementName="PORT 64" IODirection="REQUIRE" dataElement="DATA-ELEM 64"/>
+    <hasPort elementName="PORT 65" IODirection="PROVIDE" dataElement="DATA-ELEM 65"/>
+    <hasPort elementName="PORT 66" IODirection="REQUIRE" dataElement="DATA-ELEM 66"/>
+    <hasPort elementName="PORT 67" IODirection="REQUIRE" dataElement="DATA-ELEM 67"/>
+    <hasPort elementName="PORT 68" IODirection="PROVIDE" dataElement="DATA-ELEM 68"/>
+    <hasPort elementName="PORT 69" IODirection="REQUIRE" dataElement="DATA-ELEM 69"/>
+    <hasPort elementName="PORT 70" IODirection="REQUIRE" dataElement="DATA-ELEM 70"/>
+    <hasPort elementName="PORT 71" IODirection="REQUIRE" dataElement="DATA-ELEM 71"/>
+    <hasPort elementName="PORT 72" IODirection="REQUIRE" dataElement="DATA-ELEM 72"/>
+    <hasPort elementName="PORT 73" IODirection="PROVIDE" dataElement="DATA-ELEM 73"/>
+    <hasPort elementName="PORT 74" IODirection="REQUIRE" dataElement="DATA-ELEM 74"/>
+  </hasLC>
+  <hasLC elementName="LC 4"/>
+  <hasLC elementName="LC 5">
+    <hasPort elementName="PORT 75" IODirection="REQUIRE" dataElement="DATA-ELEM 75"/>
+  </hasLC>
+  <hasLC elementName="LC 6">
+    <hasPort elementName="PORT 76" IODirection="REQUIRE" dataElement="DATA-ELEM 2"/>
+    <hasPort elementName="PORT 77" IODirection="REQUIRE" dataElement="DATA-ELEM 28"/>
+    <hasPort elementName="PORT 78" IODirection="PROVIDE" dataElement="DATA-ELEM 40"/>
+    <hasPort elementName="PORT 79" IODirection="PROVIDE" dataElement="DATA-ELEM 69"/>
+    <hasPort elementName="PORT 80" IODirection="REQUIRE" dataElement="DATA-ELEM 29"/>
+    <hasPort elementName="PORT 81" IODirection="PROVIDE" dataElement="DATA-ELEM 50"/>
+    <hasPort elementName="PORT 82" IODirection="PROVIDE" dataElement="DATA-ELEM 55"/>
+    <hasPort elementName="PORT 83" IODirection="REQUIRE" dataElement="DATA-ELEM 76"/>
+    <hasPort elementName="PORT 84" IODirection="PROVIDE" dataElement="DATA-ELEM 14"/>
+    <hasPort elementName="PORT 85" IODirection="REQUIRE" dataElement="DATA-ELEM 44"/>
+    <hasPort elementName="PORT 86" IODirection="REQUIRE" dataElement="DATA-ELEM 77"/>
+    <hasPort elementName="PORT 87" IODirection="REQUIRE" dataElement="DATA-ELEM 68"/>
+    <hasPort elementName="PORT 88" IODirection="PROVIDE" dataElement="DATA-ELEM 67"/>
+    <hasPort elementName="PORT 89" IODirection="REQUIRE" dataElement="DATA-ELEM 65"/>
+    <hasPort elementName="PORT 90" IODirection="REQUIRE" dataElement="DATA-ELEM 20"/>
+    <hasPort elementName="PORT 91" IODirection="PROVIDE" dataElement="DATA-ELEM 22"/>
+    <hasPort elementName="PORT 92" IODirection="REQUIRE" dataElement="DATA-ELEM 78"/>
+  </hasLC>
+  <hasLC elementName="LC 7">
+    <hasPort elementName="PORT 93" IODirection="REQUIRE" dataElement="DATA-ELEM 79"/>
+    <hasPort elementName="PORT 94" IODirection="REQUIRE" dataElement="DATA-ELEM 80"/>
+    <hasPort elementName="PORT 95" IODirection="PROVIDE" dataElement="DATA-ELEM 81"/>
+    <hasPort elementName="PORT 96" IODirection="REQUIRE" dataElement="DATA-ELEM 3"/>
+    <hasPort elementName="PORT 97" IODirection="PROVIDE" dataElement="DATA-ELEM 82"/>
+  </hasLC>
+  <hasLC elementName="LC 8">
+    <hasPort elementName="PORT 98" IODirection="REQUIRE" dataElement="DATA-ELEM 83"/>
+  </hasLC>
+  <hasLC elementName="LC 9">
+    <hasPort elementName="PORT 99" IODirection="REQUIRE" dataElement="DATA-ELEM 84"/>
+    <hasPort elementName="PORT 100" IODirection="PROVIDE" dataElement="DATA-ELEM 85"/>
+  </hasLC>
+  <hasLC elementName="LC 10">
+    <hasPort elementName="PORT 101" IODirection="PROVIDE" dataElement="DATA-ELEM 42"/>
+    <hasPort elementName="PORT 102" IODirection="PROVIDE" dataElement="DATA-ELEM 76"/>
+    <hasPort elementName="PORT 103" IODirection="REQUIRE" dataElement="DATA-ELEM 74"/>
+    <hasPort elementName="PORT 104" IODirection="PROVIDE" dataElement="DATA-ELEM 52"/>
+    <hasPort elementName="PORT 105" IODirection="PROVIDE" dataElement="DATA-ELEM 57"/>
+    <hasPort elementName="PORT 106" IODirection="PROVIDE" dataElement="DATA-ELEM 23"/>
+    <hasPort elementName="PORT 107" IODirection="REQUIRE" dataElement="DATA-ELEM 40"/>
+    <hasPort elementName="PORT 108" IODirection="REQUIRE" dataElement="DATA-ELEM 47"/>
+    <hasPort elementName="PORT 109" IODirection="PROVIDE" dataElement="DATA-ELEM 49"/>
+    <hasPort elementName="PORT 110" IODirection="PROVIDE" dataElement="DATA-ELEM 77"/>
+    <hasPort elementName="PORT 111" IODirection="REQUIRE" dataElement="DATA-ELEM 31"/>
+    <hasPort elementName="PORT 112" IODirection="REQUIRE" dataElement="DATA-ELEM 11"/>
+    <hasPort elementName="PORT 113" IODirection="REQUIRE" dataElement="DATA-ELEM 26"/>
+    <hasPort elementName="PORT 114" IODirection="PROVIDE" dataElement="DATA-ELEM 78"/>
+    <hasPort elementName="PORT 115" IODirection="PROVIDE" dataElement="DATA-ELEM 86"/>
+    <hasPort elementName="PORT 116" IODirection="PROVIDE" dataElement="DATA-ELEM 4"/>
+    <hasPort elementName="PORT 117" IODirection="REQUIRE" dataElement="DATA-ELEM 73"/>
+    <hasPort elementName="PORT 118" IODirection="REQUIRE" dataElement="DATA-ELEM 3"/>
+  </hasLC>
+  <hasLC elementName="LC 11">
+    <hasPort elementName="PORT 119" IODirection="REQUIRE" dataElement="DATA-ELEM 39"/>
+  </hasLC>
+  <hasLC elementName="LC 12">
+    <hasPort elementName="PORT 120" IODirection="REQUIRE" dataElement="DATA-ELEM 46"/>
+    <hasPort elementName="PORT 121" IODirection="REQUIRE" dataElement="DATA-ELEM 66"/>
+    <hasPort elementName="PORT 122" IODirection="REQUIRE" dataElement="DATA-ELEM 86"/>
+    <hasPort elementName="PORT 123" IODirection="REQUIRE" dataElement="DATA-ELEM 16"/>
+  </hasLC>
+  <hasLC elementName="LC 13">
+    <hasPort elementName="PORT 124" IODirection="PROVIDE" dataElement="DATA-ELEM 24"/>
+  </hasLC>
+  <hasLC elementName="LC 14">
+    <hasPort elementName="PORT 125" IODirection="PROVIDE" dataElement="DATA-ELEM 87"/>
+    <hasPort elementName="PORT 126" IODirection="PROVIDE" dataElement="DATA-ELEM 88"/>
+    <hasPort elementName="PORT 127" IODirection="PROVIDE" dataElement="DATA-ELEM 89"/>
+  </hasLC>
+  <hasLC elementName="LC 15">
+    <hasPort elementName="PORT 128" IODirection="REQUIRE" dataElement="DATA-ELEM 90"/>
+    <hasPort elementName="PORT 129" IODirection="PROVIDE" dataElement="DATA-ELEM 91"/>
+  </hasLC>
+  <hasLC elementName="LC 16">
+    <hasPort elementName="PORT 130" IODirection="PROVIDE" dataElement="DATA-ELEM 92"/>
+    <hasPort elementName="PORT 131" IODirection="PROVIDE" dataElement="DATA-ELEM 93"/>
+    <hasPort elementName="PORT 132" IODirection="PROVIDE" dataElement="DATA-ELEM 94"/>
+  </hasLC>
+  <hasLC elementName="LC 17">
+    <hasPort elementName="PORT 133" IODirection="REQUIRE" dataElement="DATA-ELEM 51"/>
+    <hasPort elementName="PORT 134" IODirection="REQUIRE" dataElement="DATA-ELEM 58"/>
+    <hasPort elementName="PORT 135" IODirection="PROVIDE" dataElement="DATA-ELEM 9"/>
+    <hasPort elementName="PORT 136" IODirection="REQUIRE" dataElement="DATA-ELEM 76"/>
+    <hasPort elementName="PORT 137" IODirection="REQUIRE" dataElement="DATA-ELEM 54"/>
+    <hasPort elementName="PORT 138" IODirection="REQUIRE" dataElement="DATA-ELEM 65"/>
+    <hasPort elementName="PORT 139" IODirection="REQUIRE" dataElement="DATA-ELEM 69"/>
+    <hasPort elementName="PORT 140" IODirection="PROVIDE" dataElement="DATA-ELEM 71"/>
+    <hasPort elementName="PORT 141" IODirection="REQUIRE" dataElement="DATA-ELEM 78"/>
+    <hasPort elementName="PORT 142" IODirection="REQUIRE" dataElement="DATA-ELEM 44"/>
+    <hasPort elementName="PORT 143" IODirection="REQUIRE" dataElement="DATA-ELEM 22"/>
+    <hasPort elementName="PORT 144" IODirection="PROVIDE" dataElement="DATA-ELEM 2"/>
+    <hasPort elementName="PORT 145" IODirection="REQUIRE" dataElement="DATA-ELEM 50"/>
+    <hasPort elementName="PORT 146" IODirection="REQUIRE" dataElement="DATA-ELEM 8"/>
+    <hasPort elementName="PORT 147" IODirection="PROVIDE" dataElement="DATA-ELEM 20"/>
+    <hasPort elementName="PORT 148" IODirection="REQUIRE" dataElement="DATA-ELEM 14"/>
+    <hasPort elementName="PORT 149" IODirection="REQUIRE" dataElement="DATA-ELEM 68"/>
+  </hasLC>
+  <hasLC elementName="LC 18">
+    <hasPort elementName="PORT 150" IODirection="REQUIRE" dataElement="DATA-ELEM 12"/>
+    <hasPort elementName="PORT 151" IODirection="REQUIRE" dataElement="DATA-ELEM 95"/>
+    <hasPort elementName="PORT 152" IODirection="REQUIRE" dataElement="DATA-ELEM 3"/>
+    <hasPort elementName="PORT 153" IODirection="REQUIRE" dataElement="DATA-ELEM 96"/>
+    <hasPort elementName="PORT 154" IODirection="REQUIRE" dataElement="DATA-ELEM 97"/>
+    <hasPort elementName="PORT 155" IODirection="REQUIRE" dataElement="DATA-ELEM 48"/>
+    <hasPort elementName="PORT 156" IODirection="REQUIRE" dataElement="DATA-ELEM 91"/>
+    <hasPort elementName="PORT 157" IODirection="PROVIDE" dataElement="DATA-ELEM 98"/>
+    <hasPort elementName="PORT 158" IODirection="REQUIRE" dataElement="DATA-ELEM 99"/>
+    <hasPort elementName="PORT 159" IODirection="REQUIRE" dataElement="DATA-ELEM 100"/>
+    <hasPort elementName="PORT 160" IODirection="REQUIRE" dataElement="DATA-ELEM 85"/>
+    <hasPort elementName="PORT 161" IODirection="PROVIDE" dataElement="DATA-ELEM 101"/>
+    <hasPort elementName="PORT 162" IODirection="REQUIRE" dataElement="DATA-ELEM 102"/>
+    <hasPort elementName="PORT 163" IODirection="REQUIRE" dataElement="DATA-ELEM 47"/>
+    <hasPort elementName="PORT 164" IODirection="PROVIDE" dataElement="DATA-ELEM 103"/>
+    <hasPort elementName="PORT 165" IODirection="PROVIDE" dataElement="DATA-ELEM 1"/>
+    <hasPort elementName="PORT 166" IODirection="PROVIDE" dataElement="DATA-ELEM 104"/>
+    <hasPort elementName="PORT 167" IODirection="REQUIRE" dataElement="DATA-ELEM 79"/>
+    <hasPort elementName="PORT 168" IODirection="PROVIDE" dataElement="DATA-ELEM 105"/>
+    <hasPort elementName="PORT 169" IODirection="PROVIDE" dataElement="DATA-ELEM 83"/>
+    <hasPort elementName="PORT 170" IODirection="REQUIRE" dataElement="DATA-ELEM 106"/>
+    <hasPort elementName="PORT 171" IODirection="PROVIDE" dataElement="DATA-ELEM 107"/>
+    <hasPort elementName="PORT 172" IODirection="REQUIRE" dataElement="DATA-ELEM 81"/>
+    <hasPort elementName="PORT 173" IODirection="REQUIRE" dataElement="DATA-ELEM 108"/>
+    <hasPort elementName="PORT 174" IODirection="PROVIDE" dataElement="DATA-ELEM 75"/>
+    <hasPort elementName="PORT 175" IODirection="PROVIDE" dataElement="DATA-ELEM 84"/>
+    <hasPort elementName="PORT 176" IODirection="PROVIDE" dataElement="DATA-ELEM 90"/>
+    <hasPort elementName="PORT 177" IODirection="REQUIRE" dataElement="DATA-ELEM 82"/>
+    <hasPort elementName="PORT 178" IODirection="REQUIRE" dataElement="DATA-ELEM 109"/>
+    <hasPort elementName="PORT 179" IODirection="PROVIDE" dataElement="DATA-ELEM 110"/>
+  </hasLC>
+</discoD:SubSystem>
